@@ -1,1 +1,1 @@
-# Data-Survey-Dashboard
+This project is a dashboard on the breakdown of a data survey. It shares insights such as average salary by country and most favorite programming language of data professionals. The dashboard was created using Power BI
